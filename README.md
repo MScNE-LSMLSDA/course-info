@@ -69,3 +69,6 @@ To submit your solution:
 - Import all the modules that your function needs also in the `submission.ipynb` file
 - Make sure that all your function variables are defined in the `submission.ipynb` notebook
 - don't leave in the `submission.ipynb` file any code that is not part of the solution functions
+
+---
+**NOTE:** The code that will run the tests is accessible in the submission_test.py file, that you can open in GitHub or in your local version. Please, don't edit this file - we'll see it! :)
