@@ -72,3 +72,12 @@ To submit your solution:
 
 ---
 **NOTE:** The code that will run the tests is accessible in the submission_test.py file, that you can open in GitHub or in your local version. Please, don't edit this file - we'll see it! :)
+
+---
+
+**LINKS:** 
+-  You can get familiar with GitHub using this introductory [guide](https://guides.github.com/activities/hello-world/). 
+-  If you prefer using command-lines, you can learn the fundamentals [here](https://guides.github.com/introduction/git-handbook/). 
+-  You will need to integrate Google Collab with GitHub. This [tutorial](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb) shows you how to do it.  
+
+
